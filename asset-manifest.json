@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DavidSamoilov/React-Student-Form/static/css/main.e3e6f403.chunk.css",
-    "main.js": "/DavidSamoilov/React-Student-Form/static/js/main.8b36e11f.chunk.js",
-    "main.js.map": "/DavidSamoilov/React-Student-Form/static/js/main.8b36e11f.chunk.js.map",
-    "runtime-main.js": "/DavidSamoilov/React-Student-Form/static/js/runtime-main.ed030a5a.js",
-    "runtime-main.js.map": "/DavidSamoilov/React-Student-Form/static/js/runtime-main.ed030a5a.js.map",
-    "static/js/2.44b8b02a.chunk.js": "/DavidSamoilov/React-Student-Form/static/js/2.44b8b02a.chunk.js",
-    "static/js/2.44b8b02a.chunk.js.map": "/DavidSamoilov/React-Student-Form/static/js/2.44b8b02a.chunk.js.map",
-    "index.html": "/DavidSamoilov/React-Student-Form/index.html",
-    "static/css/main.e3e6f403.chunk.css.map": "/DavidSamoilov/React-Student-Form/static/css/main.e3e6f403.chunk.css.map",
-    "static/js/2.44b8b02a.chunk.js.LICENSE.txt": "/DavidSamoilov/React-Student-Form/static/js/2.44b8b02a.chunk.js.LICENSE.txt"
+    "main.css": "/React-Student-Form/static/css/main.e3e6f403.chunk.css",
+    "main.js": "/React-Student-Form/static/js/main.8b36e11f.chunk.js",
+    "main.js.map": "/React-Student-Form/static/js/main.8b36e11f.chunk.js.map",
+    "runtime-main.js": "/React-Student-Form/static/js/runtime-main.59a8885e.js",
+    "runtime-main.js.map": "/React-Student-Form/static/js/runtime-main.59a8885e.js.map",
+    "static/js/2.44b8b02a.chunk.js": "/React-Student-Form/static/js/2.44b8b02a.chunk.js",
+    "static/js/2.44b8b02a.chunk.js.map": "/React-Student-Form/static/js/2.44b8b02a.chunk.js.map",
+    "index.html": "/React-Student-Form/index.html",
+    "static/css/main.e3e6f403.chunk.css.map": "/React-Student-Form/static/css/main.e3e6f403.chunk.css.map",
+    "static/js/2.44b8b02a.chunk.js.LICENSE.txt": "/React-Student-Form/static/js/2.44b8b02a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed030a5a.js",
+    "static/js/runtime-main.59a8885e.js",
     "static/js/2.44b8b02a.chunk.js",
     "static/css/main.e3e6f403.chunk.css",
     "static/js/main.8b36e11f.chunk.js"
